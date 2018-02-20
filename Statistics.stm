@@ -39,8 +39,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="3">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -65,7 +65,7 @@
 						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange9" style="width: 66px; height: 22px">
 							<param name="Caption" value="STOP">
 							<param name="FontSize" value="8">
-							<param name="width" value="115">
+							<param name="width" value="66">
 							<param name="height" value="22">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
@@ -86,8 +86,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="1">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -182,8 +182,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="2">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -246,8 +246,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="8">
+							<param name="DataIndex" value="3">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -267,8 +267,8 @@
 							<param name="FontSize" value="14">
 							<param name="width" value="104">
 							<param name="height" value="26">
-							<param name="DataType" value="100">
-							<param name="DataIndex" value="">
+							<param name="DataType" value="101">
+							<param name="DataIndex" value="11">
 							<param name="Interval" value="250">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
@@ -286,8 +286,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="9">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -307,8 +307,8 @@
 							<param name="FontSize" value="14">
 							<param name="width" value="104">
 							<param name="height" value="26">
-							<param name="DataType" value="100">
-							<param name="DataIndex" value="">
+							<param name="DataType" value="101">
+							<param name="DataIndex" value="12">
 							<param name="Interval" value="250">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
@@ -326,8 +326,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="10">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -368,8 +368,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="11">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -390,8 +390,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="12">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -412,8 +412,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="13">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -434,8 +434,8 @@
 							<param name="Caption" value="">
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
-							<param name="DataType" value="15">
-							<param name="DataIndex" value="5">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="14">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
