@@ -26,59 +26,123 @@
 						</td>
 					</tr>
 					<tr>
-						<td class="style1">
-						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange6" style="width: 74px; height: 60px">
-							<param name="Caption" value="Brake ON\OFF">
-							<param name="FontSize" value="9">
-							<param name="width" value="74">
-							<param name="height" value="60">
+						<td class="style1" style="width: 124px" valign="top">
+						<span lang="en-us">Brake
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton16" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="ON">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="35">
+							<param name="DataIndex" value="15">
+							<param name="SetValue" value="-1">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
-							<param name="BackColor" value="12632256">
-							<param name="Indirect1DataType" value="9">
-							<param name="Indirect1DataIndex" value="1">
+							<param name="BackColor" value="65535">
 						</object>
-						</td>
-						<td class="style1">
-						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange7" style="width: 81px; height: 62px">
-							<param name="Caption" value="Open\Close grip">
-							<param name="FontSize" value="9">
-							<param name="width" value="81">
-							<param name="height" value="62">
+						</span>
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton15" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="OFF">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="9">
+							<param name="DataIndex" value="1">
+							<param name="SetValue" value="0">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
-							<param name="BackColor" value="12632256">
-							<param name="Indirect1DataType" value="9">
-							<param name="Indirect1DataIndex" value="3">
+							<param name="BackColor" value="65535">
 						</object>
 						</td>
-						<td class="style1">
+						<td class="style1" style="width: 121px" valign="top">
+						<span lang="en-us">Grip<br>
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton17" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="Open">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="9">
+							<param name="DataIndex" value="3">
+							<param name="SetValue" value="-1">
+							<param name="TrueFont" value="-1">
+							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="65535">
+						</object>
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton18" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="Close">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="9">
+							<param name="DataIndex" value="3">
+							<param name="SetValue" value="0">
+							<param name="TrueFont" value="-1">
+							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="65535">
+						</object>
+						</span>
+						</td>
+						<td class="style1" style="width: 16px">
 						&nbsp;</td>
-						<td class="style1">
-						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange9" style="width: 95px; height: 62px">
-							<param name="Caption" value="Run conveyour 1">
-							<param name="FontSize" value="9">
-							<param name="width" value="95">
-							<param name="height" value="62">
+						<td class="style1" style="width: 126px">
+						C<span lang="en-us">onveyour 1<br>
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton19" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="Stop">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="35">
+							<param name="DataIndex" value="17">
+							<param name="SetValue" value="0">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
-							<param name="BackColor" value="12632256">
+							<param name="BackColor" value="65535">
 						</object>
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton20" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="Start">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="35">
+							<param name="DataIndex" value="17">
+							<param name="SetValue" value="-1">
+							<param name="TrueFont" value="-1">
+							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="65535">
+						</object>
+						</span>
 						</td>
-						<td class="style1">
-						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange10" style="width: 95px; height: 66px; float: left;">
-							<param name="Caption" value="Run conveyour 2">
-							<param name="FontSize" value="9">
-							<param name="width" value="89">
-							<param name="height" value="66">
+						<td class="style1" valign="top">
+						<span lang="en-us">Conveyour 2
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton21" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="Stop">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="35">
+							<param name="DataIndex" value="18">
+							<param name="SetValue" value="0">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
-							<param name="BackColor" value="12632256">
+							<param name="BackColor" value="65535">
 						</object>
+						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton22" style="width: 44px; height: 32px; float: right">
+							<param name="Caption" value="Sart">
+							<param name="FontSize" value="8">
+							<param name="width" value="38">
+							<param name="height" value="32">
+							<param name="DataType" value="35">
+							<param name="DataIndex" value="18">
+							<param name="SetValue" value="-1">
+							<param name="TrueFont" value="-1">
+							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="65535">
+						</object>
+						</span>
 						</td>
 					</tr>
 					<tr>
-						<td class="style1">
+						<td class="style1" style="width: 124px">
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp1" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="979">
@@ -101,7 +165,7 @@
 							<param name="BackColor" value="12632256">
 						</object>
 						</td>
-						<td class="style1">
+						<td class="style1" style="width: 121px">
 						Open
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp2" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
@@ -148,9 +212,9 @@
 							<param name="BackColor" value="12632256">
 						</object>
 						</td>
-						<td class="style1">
+						<td class="style1" style="width: 16px">
 						&nbsp;</td>
-						<td class="style1">
+						<td class="style1" style="width: 126px">
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp4" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="979">
@@ -198,23 +262,23 @@
 						</td>
 					</tr>
 					<tr>
-						<td style="width: 18px">
+						<td style="width: 124px">
 						&nbsp;</td>
-						<td style="width: 59px">&nbsp;</td>
-						<td style="width: 52px">
+						<td style="width: 121px">&nbsp;</td>
+						<td style="width: 16px">
 						&nbsp;</td>
-						<td style="width: 81px">
+						<td style="width: 126px">
 						&nbsp;</td>
 						<td class="style1" style="width: 106px">
 						&nbsp;</td>
 					</tr>
 					<tr>
-						<td style="width: 18px">
+						<td style="width: 124px">
 						&nbsp;</td>
-						<td style="width: 59px">&nbsp;</td>
-						<td style="width: 52px">
+						<td style="width: 121px">&nbsp;</td>
+						<td style="width: 16px">
 						&nbsp;</td>
-						<td style="width: 81px">
+						<td style="width: 126px">
 						&nbsp;</td>
 						<td class="style2" style="width: 106px">
 						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange5" style="width: 115px; height: 24px">
@@ -225,18 +289,18 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="MainView.stm">
+							<param name="PageName" value="MainView2.stm">
 <a href="MainView.stm"></a>
 						</object>
 						</td>
 					</tr>
 					<tr>
-						<td style="width: 18px">
+						<td style="width: 124px">
 						&nbsp;</td>
-						<td style="width: 59px">&nbsp;</td>
-						<td style="width: 52px">
+						<td style="width: 121px">&nbsp;</td>
+						<td style="width: 16px">
 						&nbsp;</td>
-						<td style="width: 81px">
+						<td style="width: 126px">
 						&nbsp;</td>
 						<td class="style2" style="width: 106px">
 						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange3" style="width: 115px; height: 22px">
@@ -247,16 +311,17 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
+							<param name="PageName" value="PackPos2.stm">
 						</object>
 						</td>
 					</tr>
 					<tr>
-						<td style="width: 18px">
+						<td style="width: 124px">
 						&nbsp;</td>
-						<td style="width: 59px">&nbsp;</td>
-						<td style="width: 52px">
+						<td style="width: 121px">&nbsp;</td>
+						<td style="width: 16px">
 						&nbsp;</td>
-						<td style="width: 81px">
+						<td style="width: 126px">
 						&nbsp;</td>
 						<td class="style2" style="width: 106px">
 						<object classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" id="FRIPButtonChange4" style="width: 115px; height: 22px">
@@ -267,6 +332,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
+							<param name="PageName" value="Stat2.stm">
 						</object>
 						</td>
 					</tr>

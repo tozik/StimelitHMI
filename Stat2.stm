@@ -39,6 +39,7 @@
 							<param name="Interval" value="250">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="16777215">
 						</object>
 						<span class="style2">:</span>
 						<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel9" style="width: 48px; height: 40px">
@@ -65,6 +66,7 @@
 							<param name="Interval" value="250">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="16777215">
 						</object>
 						<span class="style2">:</span>
 						<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel11" style="width: 48px; height: 40px">
@@ -91,6 +93,7 @@
 							<param name="Interval" value="250">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
+							<param name="BackColor" value="16777215">
 						</object>
 						<span class="style2">:</span>
 						<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel13" style="width: 48px; height: 40px">
