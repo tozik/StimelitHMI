@@ -133,7 +133,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Check2.stm">
+							<param name="PageName" value="Check3.stm">
 							<a href="Checking.stm"></a>
 						</object>
 						</td>
@@ -185,7 +185,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="PackPos2.stm">
+							<param name="PageName" value="PackPos3.stm">
 						</object>
 						</td>
 					</tr>
@@ -236,7 +236,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Stat2.stm">
+							<param name="PageName" value="Stat3.stm">
 						</object>
 						</td>
 					</tr>
@@ -266,20 +266,7 @@
 						<td width="90" colspan="4" class="style5">Barrier 2.2</td>
 						<td style="width: 136px" colspan="2">&nbsp;</td>
 						<td>
-						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton23" style="width: 134px; height: 21px">
-							<param name="Caption" value="Statistics">
-							<param name="FontSize" value="8">
-							<param name="width" value="134">
-							<param name="height" value="21">
-							<param name="DataType" value="100">
-							<param name="DataIndex" value="">
-							<param name="SetValue" value="0">
-							<param name="TrueFont" value="-1">
-							<param name="FastLoad" value="-1">
-							<param name="BackColor" value="65280">
-							<a href="Stat2.stm"></a>
-						</object>
-						</td>
+						&nbsp;</td>
 					</tr>
 					<tr>
 						<td>
@@ -459,7 +446,7 @@
 						<td style="width: 136px" colspan="2">&nbsp;</td>
 						<td width="28">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton21" style="width: 124px; height: 26px">
-							<param name="Caption" value="Reset packs">
+							<param name="Caption" value="Reset values">
 							<param name="FontSize" value="8">
 							<param name="width" value="124">
 							<param name="height" value="26">

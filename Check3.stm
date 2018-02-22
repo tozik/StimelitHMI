@@ -22,7 +22,7 @@
 				<tbody class="style1">
 					<tr>
 						<td colspan="5">
-						<p align="center"><span lang="en-us">Checking devices</span></p>
+						<p align="center">&nbsp;</p>
 						</td>
 					</tr>
 					<tr>
@@ -142,7 +142,7 @@
 						</td>
 					</tr>
 					<tr>
-						<td class="style1" style="width: 124px">
+						<td class="style1" style="width: 124px" valign="top">
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp1" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="979">
@@ -189,6 +189,7 @@
 							<param name="BackColor" value="12632256">
 						</object>
 						<br>
+						<br>
 						Close
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp3" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
@@ -214,7 +215,7 @@
 						</td>
 						<td class="style1" style="width: 16px">
 						&nbsp;</td>
-						<td class="style1" style="width: 126px">
+						<td class="style1" style="width: 126px" valign="top">
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp4" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="979">
@@ -237,7 +238,8 @@
 							<param name="BackColor" value="12632256">
 						</object>
 						</td>
-						<td class="style1" style="width: 106px">
+						<td class="style1" style="width: 126px" valign="top">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp5" style="width: 37px; height: 39px" align="middle">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="979">
@@ -289,7 +291,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="MainView2.stm">
+							<param name="PageName" value="MainView3.stm">
 <a href="MainView.stm"></a>
 						</object>
 						</td>
@@ -311,7 +313,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="PackPos2.stm">
+							<param name="PageName" value="PackPos3.stm">
 						</object>
 						</td>
 					</tr>
@@ -332,7 +334,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Stat2.stm">
+							<param name="PageName" value="Stat3.stm">
 						</object>
 						</td>
 					</tr>
