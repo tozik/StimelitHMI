@@ -31,7 +31,7 @@
 			<table border="0" cellpadding="2" width="623">
 				<tbody class="style1">
 					<tr>
-						<td style="height: 36px">
+						<td>
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp1" style="width: 7px; height: 14px">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="370">
@@ -53,10 +53,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Pressure</td>
-						<td style="height: 36px">
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-						&nbsp;</td>
+						<td colspan="4" class="style5">Pressure</td>
 						<td class="style5">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton18" style="width: 118px; height: 24px; float: left" class="style6">
 							<param name="Caption" value="Pause">
@@ -64,14 +61,14 @@
 							<param name="width" value="112">
 							<param name="height" value="24">
 							<param name="DataType" value="35">
-							<param name="DataIndex" value="16">
+							<param name="DataIndex" value="23">
 							<param name="SetValue" value="-1">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="16777215">
 						</object>
 						</td>
-						<td class="style1" style="height: 36px">
+						<td class="style1">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton16" style="width: 118px; height: 24px;" class="style6">
 							<param name="Caption" value="Abort">
 							<param name="FontSize" value="8">
@@ -109,7 +106,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Barrier 1.1</td>
+						<td colspan="4" class="style5">Barrier 1.1</td>
 						<td colspan="2">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton22" style="width: 118px; height: 24px;" class="style6">
 							<param name="Caption" value="Home position">
@@ -133,7 +130,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Check3.stm">
+							<param name="PageName" value="CheckV.stm">
 							<a href="Checking.stm"></a>
 						</object>
 						</td>
@@ -161,7 +158,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Barrier 1.2</td>
+						<td colspan="4" class="style5">Barrier 1.2</td>
 						<td colspan="2">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton19" style="width: 118px; height: 24px;" class="style6">
 							<param name="Caption" value="Main programm">
@@ -185,7 +182,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="PackPos3.stm">
+							<param name="PageName" value="PackPosV.stm">
 						</object>
 						</td>
 					</tr>
@@ -212,7 +209,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Barrier 2.1</td>
+						<td colspan="4" class="style5">Barrier 2.1</td>
 						<td colspan="2">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton20" style="width: 118px; height: 24px;" class="style6">
 							<param name="Caption" value="Warm-up">
@@ -236,7 +233,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Stat3.stm">
+							<param name="PageName" value="StatV.stm">
 						</object>
 						</td>
 					</tr>
@@ -263,10 +260,9 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Barrier 2.2</td>
+						<td colspan="4" class="style5">Barrier 2.2</td>
 						<td style="width: 136px" colspan="2">&nbsp;</td>
-						<td>
-						&nbsp;</td>
+						<td>&nbsp;</td>
 					</tr>
 					<tr>
 						<td>
@@ -279,7 +275,7 @@
 							<param name="FontName" value="Courier New">
 							<param name="FontSize" value="14">
 							<param name="DataType" value="8">
-							<param name="DataIndex" value="3">
+							<param name="DataIndex" value="2">
 							<param name="Border" value="1">
 							<param name="Interval" value="250">
 							<param name="ViewType" value="1">
@@ -291,7 +287,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Grip open</td>
+						<td colspan="4" class="style5">Grip open</td>
 						<td style="width: 136px" class="style3" colspan="2">Pallets</td>
 						<td class="style4">
 						<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel1" style="width: 104px; height: 26px">
@@ -331,7 +327,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="90" colspan="4" class="style5">Buf pack</td>
+						<td colspan="4" class="style5">Buf pack</td>
 						<td style="width: 136px" class="style3" colspan="2">Packs</td>
 						<td class="style4">
 						<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel2" style="width: 104px; height: 26px">
@@ -349,9 +345,30 @@
 						</td>
 					</tr>
 					<tr>
-						<td style="height: 24px"></td>
-						<td width="95" colspan="4" class="style1" style="height: 24px">
-						Pal<span lang="en-us">l</span>ets</td>
+						<td style="height: 24px">
+						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp13" style="width: 7px; height: 14px">
+							<param name="_Version" value="65536">
+							<param name="_ExtentX" value="370">
+							<param name="_ExtentY" value="370">
+							<param name="_StockProps" value="6">
+							<param name="Caption" value="">
+							<param name="FontName" value="Courier New">
+							<param name="FontSize" value="14">
+							<param name="DataType" value="1">
+							<param name="DataIndex" value="10">
+							<param name="Border" value="1">
+							<param name="Interval" value="250">
+							<param name="ViewType" value="1">
+							<param name="TrueColor" value="65280">
+							<param name="FalseColor" value="255">
+							<param name="width" value="14">
+							<param name="height" value="14">
+							<param name="TrueFont" value="-1">
+							<param name="FastLoad" value="-1">
+						</object>
+						</td>
+						<td colspan="4" class="style5" style="height: 24px">
+						Predbuf pack</td>
 					</tr>
 					<tr>
 						<td width="20">&nbsp;</td>
@@ -421,7 +438,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td width="20" style="width: 2px">
+						<td style="width: 7px">
 						<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp12" style="width: 7px; height: 14px">
 							<param name="_Version" value="65536">
 							<param name="_ExtentX" value="370">
@@ -443,7 +460,7 @@
 							<param name="FastLoad" value="-1">
 						</object>
 						</td>
-						<td style="width: 136px" colspan="2">&nbsp;</td>
+						<td style="width: 136px" colspan="2" class="style5">Pal<span lang="en-us">l</span>ets</td>
 						<td width="28">
 						<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton21" style="width: 124px; height: 26px">
 							<param name="Caption" value="Reset values">

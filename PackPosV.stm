@@ -80,7 +80,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="MainView3.stm">
+							<param name="PageName" value="MainV.stm">
 <a href="/MainView.stm"></a>
 						</object>
 						<br>
@@ -92,7 +92,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Check3.stm">
+							<param name="PageName" value="CheckV.stm">
 <a href="/MainView.stm"></a>
 						</object>
 						<br>
@@ -104,7 +104,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Stat3.stm">
+							<param name="PageName" value="StatV.stm">
 <a href="/MainView.stm"></a>
 						</object>
 						</td>

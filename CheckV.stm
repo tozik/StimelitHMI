@@ -33,8 +33,8 @@
 							<param name="FontSize" value="8">
 							<param name="width" value="38">
 							<param name="height" value="32">
-							<param name="DataType" value="35">
-							<param name="DataIndex" value="15">
+							<param name="DataType" value="9">
+							<param name="DataIndex" value="1">
 							<param name="SetValue" value="-1">
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
@@ -291,7 +291,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="MainView3.stm">
+							<param name="PageName" value="MainV.stm">
 <a href="MainView.stm"></a>
 						</object>
 						</td>
@@ -313,7 +313,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="PackPos3.stm">
+							<param name="PageName" value="PackPosV.stm">
 						</object>
 						</td>
 					</tr>
@@ -334,7 +334,7 @@
 							<param name="TrueFont" value="-1">
 							<param name="FastLoad" value="-1">
 							<param name="BackColor" value="12632256">
-							<param name="PageName" value="Stat3.stm">
+							<param name="PageName" value="StatV.stm">
 						</object>
 						</td>
 					</tr>
